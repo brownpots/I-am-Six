@@ -1,16 +1,7 @@
 body {background-color: #7CDBD5}
 
 ul {
-  font-family: 'Short stack regular', sans-serif;
+  font-family: "Short Stack";
   font-size: 80px;
   font-color: #F53240;
-}
-
-h1 {
-	font-family: "Short Stack";
-	font-size: 24px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 26.4px;
 }
