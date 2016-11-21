@@ -1,5 +1,9 @@
-body {background-color: #7CDBD5}
+body {	background-color: #7CDBD5
+}
 
+h1 {font-family: "short stack";
+	font-size: 100px;
+	font-color: red;}
 ul {
   font-family: "short stack";
   font-size: 80px;
