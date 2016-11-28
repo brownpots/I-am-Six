@@ -11,8 +11,13 @@ h2	{font-family: "short stack";
 	font-size: 60px;
 	color: #F53240;
 }
+h3
+	{font-family: "short stack";
+	font-size: 60px;
+	color: #F9BE02;
+}
 ul {
   font-family: "short stack";
   font-size: 50px;
-  color: #02A8A7;
+  color: white;
 }
