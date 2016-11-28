@@ -1,15 +1,18 @@
 body {	background-color: #7CDBD5;
 	font-family: "short stack";
-	font-size: 30px}
+	font-size: 20px;
+}
 
-h1 {font-family: "kranky";
+h1 {font-family: "short stack";
 	font-size: 100px;
-	color: #f53240;
+	color: #02A8A7;
 }
 h2	{font-family: "short stack";
 	font-size: 70px;
-	font=color:#02A8A7;}
+	color: #F53240;
+}
 ul {
   font-family: "short stack";
-  font-size: 80px;
-  font-color: #F53240}
+  font-size: 50px;
+  color: #02A8A7;
+}
