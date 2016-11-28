@@ -1,11 +1,11 @@
-body {	background-color: #7CDBD5
-}
+body {	background-color: #7CDBD5;
+	font-family: "short stack";
+	font-size: 60px}
 
 h1 {font-family: "short stack";
 	font-size: 100px;
-	font-color: "red";}
+	font-color: "red"}
 ul {
   font-family: "short stack";
   font-size: 80px;
-  font-color: #F53240;
-}
+  font-color: #F53240}
